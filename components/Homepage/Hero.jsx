@@ -7,7 +7,7 @@ const Hero = () => {
     return (
         <section className="bg-homePageHeroBg bg-no-repeat bg-cover h-screen">
             {/* Mobile */}
-            <div className="lg:hidden py-5 px-6 md:py-7 md:px-12 lg:px-16 absolute mt-12 top-[50%] -translate-y-1/2 text-white flex flex-col -z-1">
+            <div className="lg:hidden py-5 px-6 md:py-7 md:px-12 lg:px-16 absolute mt-20 top-[50%] -translate-y-1/2 text-white flex flex-col -z-1">
                 <p className="mx-auto font-playfairDisplay font-semibold text-5xl lg:text-3xl text-center">
                     Hello
                 </p>

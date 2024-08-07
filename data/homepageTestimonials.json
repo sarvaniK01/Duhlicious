@@ -1,0 +1,171 @@
+[
+    {
+        "id": 1,
+        "userDescription": "Discovering Duhlicious has transformed my cooking experience! With its vast collection of original recipes catering to all tastes and skill levels, I've found myself excited to explore new flavors and dishes. The step-by-step instructions and vibrant visuals make each recipe a joy to follow, resulting in consistently delicious meals. Say goodbye to kitchen boredom and hello to culinary excitement with Duhlicious - my go-to food recipe site!",
+        "userImage":"/homePage/testimonials/aishaPatel.png",
+        "userName" : "Aisha Patel",
+        "userRecipes": [
+            {
+                "recipeImage": "/foodImagesAll/1-brekkieBinge/4-misal-pav.png",
+                "recipeName": "Misal Pav",
+                "recipeLink":"https://youtu.be/kaJzwCD8uvY"
+            },
+            {
+                "recipeImage": "/foodImagesAll/2-lunchtimeLaughs/12-rosun-er-bhorta.png",
+                "recipeName": "Rosun-er-bhorta",
+                "recipeLink": "https://www.instagram.com/teammirchilagi/reel/C4vWECly3DA/"
+            },
+            {
+                "recipeImage": "/foodImagesAll/5-dessertLicious/12-mocha-pudding.png",
+                "recipeName": "Mocha Pudding",
+                "recipeLink": "https://www.instagram.com/p/C4ac08vy4yp/"
+            },
+            {
+                "recipeImage": "/foodImagesAll/9-flavourFrenzy/12-spicy-tomato-chutney.png",
+                "recipeName": "Tomato Chutney",
+                "recipeLink": "https://www.instagram.com/p/ChG7CcEPPJf/?img_index=1"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "userDescription": "Being a food enthusiast, I'm always on the lookout for new recipes to try. Duhlicious has quickly become my favorite recipe site, thanks to its vast collection of unique and mouthwatering dishes. Whether I'm in the mood for comfort food or craving something exotic, Duhlicious has never disappointed. Their recipes are not only delicious but also easy to follow, making cooking a joyous experience.",
+        "userImage": "/homePage/testimonials/adityaKumar.png",
+        "userName": "Aditya Kumar",
+        "userRecipes": [
+            {
+                "recipeImage": "/foodImagesAll/2-lunchtimeLaughs/8-mumbai-street-style-lays-frankie.png",
+                "recipeName": "Lays Frankie",
+                "recipeLink": "https://www.instagram.com/spoonsofdilli/reel/CwmUE_ivjoQ/"
+            },
+            {
+                "recipeImage": "/foodImagesAll/4-dinnertimeDazzle/9-spicy-butter-garlic-roti.png",
+                "recipeName": "Spicy Butter Garlic Roti",
+                "recipeLink": "https://www.instagram.com/sheetalkitchen/reel/C37GN3StSh7/"
+            },
+            {
+                "recipeImage": "/foodImagesAll/6-pastaPalooza/10-aglio-e-olio.png",
+                "recipeName": "Aglio-e-Oilo",
+                "recipeLink": "https://www.instagram.com/the_pastaqueen/reel/CL7o1sNALGx/"
+            },
+            {
+                "recipeImage": "/foodImagesAll/8-slurpNSnicker/9-nutella-ferrero-rocher-shake.png",
+                "recipeName": "Nutella Ferrero Rocher Shake",
+                "recipeLink": "https://youtu.be/TLmTJBCctx4"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "userDescription": "Cooking has never been more enjoyable since I found Duhlicious! Their recipe site is a treasure trove of culinary inspiration. Whether I'm craving comfort food or exploring exotic cuisines, Duhlicious delivers with mouthwatering recipes that are easy to follow. Each dish is a triumph, thanks to their clear instructions and helpful tips. With Duhlicious, I've become a confident chef, delighting friends and family with my newfound culinary prowess!",
+        "userImage": "/homePage/testimonials/priyaSharma.png",
+        "userName": "Priya Sharma",
+        "userRecipes": [
+            {
+                "recipeImage": "/foodImagesAll/1-brekkieBinge/1-aloo-parantha.png",
+                "recipeName": "Aloo Parantha",
+                "recipeLink": "https://youtu.be/dBXiHx11niM"
+            },
+            {
+                "recipeImage": "/foodImagesAll/6-pastaPalooza/4-garlic-and-caremlised-onion-pasta.png",
+                "recipeName": "Garlic Caramelized Onion Pasta",
+                "recipeLink": "https://www.instagram.com/p/C3DE8WXxHF4/"
+            },
+            {
+                "recipeImage": "/foodImagesAll/7-soupTastic/9-tomato-soup.png",
+                "recipeName": "Tomato Soup",
+                "recipeLink": "https://www.instagram.com/frommybowl/reel/CvaSIhzpZCk/"
+            },
+            {
+                "recipeImage": "/foodImagesAll/8-slurpNSnicker/7-mango-lassi.png",
+                "recipeName": "Mango Lassi",
+                "recipeLink": "https://www.instagram.com/reel/C6mL6H-Iklf/?img_index=karancooks"
+            }
+        ]
+        
+    },
+    {
+        "id": 4,
+        "userDescription": "As a novice cook, I often struggled to find recipes that suited my skill level. That is until I discovered Duhlicious. Their recipe site caters to cooks of all abilities, with easy-to-follow instructions and helpful tips that make every dish a success. From simple snacks to elaborate dinners, Duhlicious has become my go-to source for culinary inspiration.",
+        "userImage": "/homePage/testimonials/mateoRodriguez.png",
+        "userName": "Mateo Rodriguez",
+        "userRecipes": [
+            {
+                "recipeImage": "/foodImagesAll/3-snackOMania/9-masala-soya-chunks.png",
+                "recipeName": "Masala Soya Chunks",
+                "recipeLink": "https://www.yummytummyaarthi.com/soya-chunks-fry-recipe-meal-maker-fry/"
+            },
+            {
+                "recipeImage": "/foodImagesAll/4-dinnertimeDazzle/10-veg-stewed-rice.png",
+                "recipeName": "Veg Stewed Rice",
+                "recipeLink": "https://www.instagram.com/p/CwpoTAtRuVn/"
+            },
+            {
+                "recipeImage": "/foodImagesAll/7-soupTastic/6-mushroom-soup.png",
+                "recipeName": "Mushroom Soup",
+                "recipeLink": "https://www.recipetineats.com/mushroom-soup/"
+            },
+            {
+                "recipeImage": "/foodImagesAll/9-flavourFrenzy/2-garlic-confit.png",
+                "recipeName": "Garlic Confit",
+                "recipeLink": "https://www.instagram.com/reel/CnSUbcpJEwD/"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "userDescription": "Being a health-conscious foodie, finding recipes that are both nutritious and delicious can be a challenge. Thankfully, Duhlicious has an abundance of wholesome options that satisfy my cravings without compromising on taste. Their recipe site is a treasure trove of inspiration, and I love experimenting with their creative and flavorful dishes. Duhlicious has truly revolutionized the way I eat!",
+        "userImage": "/homePage/testimonials/matthewWilliams.png",
+        "userName": "Matthew Williams",
+        "userRecipes": [
+            {
+                "recipeImage": "/foodImagesAll/1-brekkieBinge/9-protein-sandwich.png",
+                "recipeName": "Protein Sandwich",
+                "recipeLink": "https://www.instagram.com/reel/CylLkmyJMdK/"
+            },
+            {
+                "recipeImage": "/foodImagesAll/2-lunchtimeLaughs/14-spinach-rice-with-spicy-veggies.png",
+                "recipeName": "Spinach Rice with Spicy Veggies",
+                "recipeLink": "https://www.youtube.com/watch?v=jjs1zGhtRsY"
+            },
+            {
+                "recipeImage": "/foodImagesAll/8-slurpNSnicker/4-dates-and-nuts-milkshake.png",
+                "recipeName": "Dates and Nuts Milkshake",
+                "recipeLink": "https://www.instagram.com/reel/CwFVz2wJb4Y/?img_index=shivesh17"
+            },
+            {
+                "recipeImage": "/foodImagesAll/4-dinnertimeDazzle/3-black-chana-salad-bowl.png",
+                "recipeName": "Black Chana Salad Bowl",
+                "recipeLink": "https://www.instagram.com/geetasfoodielife/reel/C5bBN16vV9S/"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "userDescription": "As a busy professional, Duhlicious has been a lifesaver for me! Their recipe site simplifies meal prep without sacrificing flavor. With a plethora of quick and easy recipes at my fingertips, I can whip up delicious meals in no time. Duhlicious user-friendly interface and comprehensive instructions ensure that even novice cooks can cook effortlessly. Thanks to Duhlicious, I can enjoy homemade meals without the stress, making every dining experience a delightful one!",
+        "userImage": "/homePage/testimonials/IsabellaRossi.png",
+        "userName": "Isabella Rossi",
+        "userRecipes": [
+            {
+                "recipeImage": "/foodImagesAll/4-dinnertimeDazzle/7-roasted-soya-chunks-salad.png",
+                "recipeName": "Roasted Soya Chunks Salad",
+                "recipeLink": "https://www.instagram.com/reel/C6ITHHHvJ_X/"
+            },
+            {
+                "recipeImage": "/foodImagesAll/6-pastaPalooza/4-garlic-and-caremlised-onion-pasta.png",
+                "recipeName": "Garlic Caramelized Onion Pasta",
+                "recipeLink": "https://www.instagram.com/p/C3DE8WXxHF4/"
+            },
+            {
+                "recipeImage": "/foodImagesAll/8-slurpNSnicker/10-oreo-shake.png",
+                "recipeName": "Oreo Shake",
+                "recipeLink": "https://bakewithshivesh.com/indulgent-oreo-milkshake/"
+            },
+            {
+                "recipeImage": "/foodImagesAll/9-flavourFrenzy/7-hot-chocolate-mix.png",
+                "recipeName": "Hot Chocolate Mix",
+                "recipeLink": "https://marleysmenu.com/hot-chocolate-mix/"
+            }
+        ]
+    }
+]

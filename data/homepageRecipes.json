@@ -1,0 +1,129 @@
+[
+    {
+        "id": 1,
+        "recipeLink": "https://youtu.be/dBXiHx11niM",
+        "recipeImage": "/homePage/recipes/recipes/alooParantha.png",
+        "dot1": "block",
+        "dot2": "block",
+        "dot3": "hidden",
+        "recipeName": "Aloo Parantha",
+        "time": "40 Minutes",
+        "servings": "8 Servings",
+        "calories": "203 Calories (1 serving)",
+        "categories": [
+            "Brekkie Binge",
+            "North Indian"
+        ]
+    },
+    {
+        "id": 2,
+        "recipeLink": "https://www.youtube.com/watch?v=6JsjQclCWl0",
+        "recipeImage": "/homePage/recipes/recipes/laukiThaalipeeth.png",
+        "dot1": "block",
+        "dot2": "block",
+        "dot3": "block",
+        "recipeName": "Lauki Thaalipeeth",
+        "time": "40 Minutes",
+        "servings": "8 Servings",
+        "calories": "183 Calories (1 serving)",
+        "categories": [
+            "Dinnertime Dazzle",
+            "Maharashtrian"
+        ]
+    },
+    {
+        "id": 3,
+        "recipeLink": "https://www.youtube.com/watch?v=pfswT0HvNhQ",
+        "recipeImage": "/homePage/recipes/recipes/lemonSoup.png",
+        "dot1": "block",
+        "dot2": "hidden",
+        "dot3": "hidden",
+        "recipeName": "Lemon Coriander Soup",
+        "time": "25 Minutes",
+        "servings": "4 Servings",
+        "calories": "41 Calories (200ml)",
+        "categories": [
+            "Soup-tastic",
+            "Healthy"
+        ]
+    },
+    {
+        "id": 4,
+        "recipeLink": "https://www.youtube.com/watch?v=2_BkfGRcx3o",
+        "recipeImage": "/homePage/recipes/recipes/poha.png",
+        "dot1": "block",
+        "dot2": "block",
+        "dot3": "hidden",
+        "recipeName": "Maharashtrian Style Poha",
+        "time": "25 Minutes",
+        "servings": "2 Servings",
+        "calories": "274 Calories (200g)",
+        "categories": [
+            "Brekkie Binge",
+            "Maharashtrian"
+        ]
+    },
+    {
+        "id": 5,
+        "recipeLink": "https://youtu.be/QioyrhSDdGI",
+        "recipeImage": "/homePage/recipes/recipes/paneerButterMasala.png",
+        "dot1": "block",
+        "dot2": "block",
+        "dot3": "hidden",
+        "recipeName": "Paneer Butter Masala",
+        "time": "35 Minutes",
+        "servings": "4 Servings",
+        "calories": "224 Calories (150ml)",
+        "categories": [
+            "Lunchtime-Laughs",
+            "North Indian"
+        ]
+    },
+    {
+        "id": 6,
+        "recipeLink": "https://www.youtube.com/watch?v=S6OKo1wVnPI",
+        "recipeImage": "/homePage/recipes/recipes/redSaucePasta.png",
+        "dot1": "block",
+        "dot2": "block",
+        "dot3": "hidden",
+        "recipeName": "Red Sauce Pasta",
+        "time": "30 Minutes",
+        "servings": "4 Servings",
+        "calories": "242 Calories (200g)",
+        "categories": [
+            "Pasta Palooza"
+        ]
+    },
+    {
+        "id": 7,
+        "recipeLink": "https://www.youtube.com/watch?v=4BNvyx4GJl0",
+        "recipeImage": "/homePage/recipes/recipes/rotiCrackers.png",
+        "dot1": "block",
+        "dot2": "hidden",
+        "dot3": "hidden",
+        "recipeName": "Roti Crackers",
+        "time": "20 Minutes",
+        "servings": "2 Servings",
+        "calories": "214 Calories (50g)",
+        "categories": [
+            "Snack-o-Mania",
+            "Indian"
+        ]
+    },
+    {
+        "id": 8,
+        "recipeLink": "https://www.youtube.com/watch?v=35S4VQ4j9xw",
+        "recipeImage": "/homePage/recipes/recipes/semiyaPayasam.png",
+        "dot1": "block",
+        "dot2": "block",
+        "dot3": "hidden",
+        "recipeName": "Semiya Payasam",
+        "time": "20 Minutes",
+        "servings": "4 Servings",
+        "calories": "372 Calories (240ml)",
+        "categories": [
+            "Dessert-licious",
+            "South Indian"
+        ]
+    }
+]

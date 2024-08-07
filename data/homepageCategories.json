@@ -1,0 +1,65 @@
+[
+    {
+        "id":1,
+        "link": "/",
+        "title1": "Brekkie",
+        "title2": "Binge",
+        "image": "/homePage/categories/brekkie-binge.png"
+    },
+    {
+        "id": 2,
+        "link": "/",
+        "title1": "Luncheon",
+        "title2": "Laughs",
+        "image": "/homePage/categories/luncheon-laughs.png"
+    },
+    {
+        "id": 3,
+        "link": "/",
+       "title1": "Snack-o-",
+        "title2": "Mania",
+        "image": "/homePage/categories/snack-o-mania.png"
+    },
+    {
+        "id": 4,
+        "link": "/",
+        "title1": "Dinnertime",
+        "title2": "Dazzle",
+        "image": "/homePage/categories/dinnertime-dazzle.png"
+    },
+    {
+        "id": 5,
+        "link": "/",
+        "title1": "Dessert-",
+        "title2": "Licious",
+        "image": "/homePage/categories/dessert-licious.png"
+    },
+    {
+        "id": 6,
+        "link": "/",
+        "title1": "Pasta-",
+        "title2": "Palooza",
+        "image": "/homePage/categories/pasta-palooza.png"
+    },
+    {
+        "id": 7,
+        "link": "/",
+        "title1": "Soup-",
+        "title2": "Tastic",
+        "image": "/homePage/categories/soup-tastic.png"
+    },
+    {
+        "id": 8,
+        "link": "/",
+        "title1": "Slurp-n-",
+        "title2": "Snicker",
+        "image": "/homePage/categories/slurp-n-snicker.png"
+    },
+    {
+        "id": 9,
+        "link": "/",
+        "title1": "Flavor-",
+        "title2": "Frenzy",
+        "image": "/homePage/categories/flavor-frenzy.png"
+    }
+]

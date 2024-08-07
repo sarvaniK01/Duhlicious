@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.mobileNav{
+    z-index: 50;
+}
+
+/* BUTTON ELEMENT */
+#dButton {
+    position: relative;
+}
+
+.insideButton {
+    display: block;
+}
+
+.duhliciousButtonIcon {
+    position: absolute;
+    top: 65%;
+    bottom: 0;
+    left: 34%;
+    right: 0;
+    height: 76px;
+    width: 100px;
+    opacity: 0;
+    transition: all 300ms ease-in;
+    animation-delay: 400ms;
+    background-image: url('/icons/duhliciousBgRemove.png');
+    z-index: 2;
+    background-repeat: no-repeat;
+}
+
+#dButton:hover .duhliciousButtonIcon {
+    opacity: 1;
+}
+
+#dButton:hover .insideButton {
+    box-shadow: 0px 0px 7px 5px rgba(187, 55, 26, .5);
+}
+
+.cardHover:hover{
+    .cardImageHover{
+        transform: rotate(10deg);
+        transition: all 300ms ease-in;
+        animation-delay: 400ms;
+    }
+}
+
+.recipeCardShadow {
+    -webkit-box-shadow: 0px 10.88px 22.84px 0px rgba(0, 0, 0, 0.39);
+    -moz-box-shadow: 0px 10.88px 22.84px 0px rgba(0, 0, 0, 0.39);
+    box-shadow: 0px 10.88px 22.84px 0px rgba(0, 0, 0, 0.39);
+}
+
+/* TESTIMONIALS SECTION */
+.testimonialCard:hover{
+    .userImage{
+        transform: rotate(10deg);
+        transition: all 300ms ease-in;
+        animation-delay: 400ms;
+    }
+}
+
+.testimonialDiv1 {
+    -webkit-box-shadow: 0px 10.88px 22.84px 0px rgba(0, 0, 0, 0.39);
+    -moz-box-shadow: 0px 10.88px 22.84px 0px rgba(0, 0, 0, 0.39);
+    box-shadow: 0px 10.88px 22.84px 0px rgba(0, 0, 0, 0.39);
+}
+
+.testimonialDiv2 {
+    -webkit-box-shadow: 0px 20px 22.84px 0px rgba(0, 0, 0, 0.39);
+    -moz-box-shadow: 0px 20px 22.84px 0px rgba(0, 0, 0, 0.39);
+    box-shadow: 0px 20px 22.84px 0px rgba(0, 0, 0, 0.39);
+}
+
+.testimonialRecipeImage:hover{
+    transform: rotate(10deg);
+    transition: all 300ms ease-in;
+    animation-delay: 400ms;
+    position: relative;
+
+    .innerImage{
+       opacity: 70%;
+    }
+
+    .testimonialRecipeName{
+        display: block;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+}
+
+/* RECIPES PAGE */
+
+.gridContainer {
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.gridItem {
+    flex: 0 0 calc(16.66% - 20px);
+    margin: 40px 30px;
+}
+
+.gridItem2 {
+    flex: 0 0 calc(41% - 10px);
+    margin: 40px 20px;
+}

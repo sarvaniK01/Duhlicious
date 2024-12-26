@@ -83,14 +83,14 @@ const Navbar = () => {
                             transition={{ type: "backOut", stiffness: 100 }}
                         >
                             <div className={`relative flex flex-col bg-homePageHeroBgMobile bg-no-repeat bg-cover h-screen bg-white w-full z-10 gap-y-12 justify-center w-full font-semibold text-white`}>
-                                <ul className='grid grid-cols-1 lg:grid-cols-2 font-playfairDisplay text-2xl gap-y-10 md:gap-y-14 lg:gap-x-14 justify-center mx-auto w-fit lg:mt-14 text-2xl md:text-4xl lg:text-2xl'>
+                                <div className='grid grid-cols-1 lg:grid-cols-2 font-playfairDisplay text-2xl gap-y-10 md:gap-y-14 lg:gap-x-14 justify-center mx-auto w-fit lg:mt-14 text-2xl md:text-4xl lg:text-2xl'>
                                     {/* Home */}
                                     <Link href="/" className="my-auto" onClick={() => {
                                         setOpen(false)
                                         enable()
                                     }}>
                                         <div className="hover:bg-orange mx-auto lg:mx-0 transition-all duration-300 ease-in delay-400 w-fit rounded-2xl py-2 px-4">
-                                            <li>Home</li>
+                                            <span>Home</span>
                                         </div>
                                     </Link>
 
@@ -100,7 +100,7 @@ const Navbar = () => {
                                         enable()
                                     }}>
                                         <div className="hover:bg-orange mx-auto lg:mx-0 transition-all duration-300 ease-in delay-400 w-fit rounded-2xl py-2 px-4">
-                                            <li>About</li>
+                                            <span>About</span>
                                         </div>
                                     </Link>
 
@@ -110,7 +110,7 @@ const Navbar = () => {
                                         enable()
                                     }}>
                                         <div className="hover:bg-orange mx-auto lg:mx-0 transition-all duration-300 ease-in delay-400 w-fit rounded-2xl py-2 px-4">
-                                            <li>Categories</li>
+                                            <span>Categories</span>
                                         </div>
                                     </Link>
 
@@ -120,7 +120,7 @@ const Navbar = () => {
                                         enable()
                                     }}>
                                         <div className="hover:bg-orange mx-auto lg:mx-0 transition-all duration-300 ease-in delay-400 w-fit rounded-2xl py-2 px-4">
-                                            <li>Recipes</li>
+                                            <span>Recipes</span>
                                         </div>
                                     </Link>
 
@@ -130,7 +130,7 @@ const Navbar = () => {
                                         enable()
                                     }}>
                                         <div className="hover:bg-orange mx-auto lg:mx-0 transition-all duration-300 ease-in delay-400 w-fit rounded-2xl py-2 px-4">
-                                            <li>Testimonials</li>
+                                            <span>Testimonials</span>
                                         </div>
                                     </Link>
 
@@ -140,10 +140,10 @@ const Navbar = () => {
                                         enable()
                                     }}>
                                         <div className="hover:bg-orange mx-auto lg:mx-0 transition-all duration-300 ease-in delay-400 w-fit rounded-2xl py-2 px-4">
-                                            <li>Contact</li>
+                                            <span>Contact</span>
                                         </div>
                                     </Link>
-                                </ul>
+                                </div>
                             </div>
                         </motion.div>
                     )
@@ -152,25 +152,25 @@ const Navbar = () => {
 
             {/* Desktop */}
             <nav className="hidden xl:block absolute left-[50%] -translate-x-1/2 w-full container mx-auto bg-transparent py-8 px-7 xl:py-10 xl:px-24 2xl:py-14 2xl:px-24 font-playfairDisplay font-semibold text-white text-xl 2xl:text-2xl">
-                <ul className="flex flex-row justify-between w-full">
+                <div className="flex flex-row justify-between w-full">
                     {/* Home */}
                     <Link href="/" className="my-auto">
                         <div className="hover:bg-orange transition-all duration-300 ease-in delay-400 w-fit rounded-2xl py-2 px-4">
-                            <li>Home</li>
+                            <span>Home</span>
                         </div>
                     </Link>
 
                     {/* About */}
                     <Link href="/about" className="my-auto">
                         <div className="hover:bg-orange transition-all duration-300 ease-in delay-400 w-fit rounded-2xl py-2 px-4">
-                            <li>About</li>
+                            <span>About</span>
                         </div>
                     </Link>
 
                     {/* Categories */}
                     <Link href="/#categories" className="my-auto">
                         <div className="hover:bg-orange transition-all duration-300 ease-in delay-400 w-fit rounded-2xl py-2 px-4">
-                            <li>Categories</li>
+                            <span>Categories</span>
                         </div>
                     </Link>
 
@@ -182,24 +182,24 @@ const Navbar = () => {
                     {/* Recipes */}
                     <Link href="/recipes" className="my-auto">
                         <div className="hover:bg-orange transition-all duration-300 ease-in delay-400 w-fit rounded-2xl py-2 px-4">
-                            <li>Recipes</li>
+                            <span>Recipes</span>
                         </div>
                     </Link>
 
                     {/* Testimonials */}
                     <Link href="/#testimonials" className="my-auto">
                         <div className="hover:bg-orange transition-all duration-300 ease-in delay-400 w-fit rounded-2xl py-2 px-4">
-                            <li>Testimonials</li>
+                            <span>Testimonials</span>
                         </div>
                     </Link>
 
                     {/* Contact */}
                     <Link href="/contact" className="my-auto">
                         <div className="hover:bg-orange transition-all duration-300 ease-in delay-400 w-fit rounded-2xl py-2 px-4">
-                            <li>Contact</li>
+                            <span>Contact</span>
                         </div>
                     </Link>
-                </ul>
+                </div>
             </nav>
         </div>
         

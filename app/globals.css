@@ -1,5 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap&rel=preload');
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&display=swap&rel=preload');
 
 @tailwind base;
 @tailwind components;
@@ -29,7 +29,7 @@
     opacity: 0;
     transition: all 300ms ease-in;
     animation-delay: 400ms;
-    background-image: url('/icons/duhliciousBgRemove.png');
+    background-image: url('/icons/duhliciousBgRemove.webp');
     z-index: 2;
     background-repeat: no-repeat;
 }

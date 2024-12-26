@@ -55,37 +55,37 @@ const Footer = () => {
                 {/* bottom div */}
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-x-14 gap-y-14 my-auto mx-auto text-center">
                     <Link href="/">
-                        <p className="font-playfairDisplay font-semibold text-black text-3xl hover:scale-105 hover:text-orange transition-all duration-300 ease-in delay-400">
+                        <p className="font-playfairDisplay font-semibold text-black text-2xl xl:text-3xl hover:scale-105 hover:text-orange transition-all duration-300 ease-in delay-400">
                             Home
                         </p>
                     </Link>
                     
                     <Link href="/about">
-                        <p className="font-playfairDisplay font-semibold text-black text-3xl hover:scale-105 hover:text-orange transition-all duration-300 ease-in delay-400">
+                        <p className="font-playfairDisplay font-semibold text-black text-2xl xl:text-3xl hover:scale-105 hover:text-orange transition-all duration-300 ease-in delay-400">
                             About
                         </p>
                     </Link>
 
                     <Link href="/#categories">
-                        <p className="font-playfairDisplay font-semibold text-black text-3xl hover:scale-105 hover:text-orange transition-all duration-300 ease-in delay-400">
+                        <p className="font-playfairDisplay font-semibold text-black text-2xl xl:text-3xl hover:scale-105 hover:text-orange transition-all duration-300 ease-in delay-400">
                             Categories
                         </p>
                     </Link>
 
                     <Link href="/recipes">
-                        <p className="font-playfairDisplay font-semibold text-black text-3xl hover:scale-105 hover:text-orange transition-all duration-300 ease-in delay-400">
+                        <p className="font-playfairDisplay font-semibold text-black text-2xl xl:text-3xl hover:scale-105 hover:text-orange transition-all duration-300 ease-in delay-400">
                             Recipes
                         </p>
                     </Link>
                     
                     <Link href="/#testimonials">
-                        <p className="font-playfairDisplay font-semibold text-black text-3xl hover:scale-105 hover:text-orange transition-all duration-300 ease-in delay-400">
+                        <p className="font-playfairDisplay font-semibold text-black text-2xl lg:text-3xl hover:scale-105 hover:text-orange transition-all duration-300 ease-in delay-400">
                             Testimonials
                         </p>
                     </Link>
                     
                     <Link href="/contact">
-                        <p className="font-playfairDisplay font-semibold text-black text-3xl hover:scale-105 hover:text-orange transition-all duration-300 ease-in delay-400">
+                        <p className="font-playfairDisplay font-semibold text-black text-2xl lg:text-3xl hover:scale-105 hover:text-orange transition-all duration-300 ease-in delay-400">
                             Contact
                         </p>
                     </Link>

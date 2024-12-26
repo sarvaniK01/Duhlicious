@@ -2,7 +2,7 @@
     {
         "id": 1,
         "recipeLink": "https://youtu.be/dBXiHx11niM",
-        "recipeImage": "/homePage/recipes/recipes/alooParantha.png",
+        "recipeImage": "/homePage/recipes/recipes/alooParantha.webp",
         "dot1": "block",
         "dot2": "block",
         "dot3": "hidden",
@@ -18,7 +18,7 @@
     {
         "id": 2,
         "recipeLink": "https://www.youtube.com/watch?v=6JsjQclCWl0",
-        "recipeImage": "/homePage/recipes/recipes/laukiThaalipeeth.png",
+        "recipeImage": "/homePage/recipes/recipes/laukiThaalipeeth.webp",
         "dot1": "block",
         "dot2": "block",
         "dot3": "block",
@@ -34,7 +34,7 @@
     {
         "id": 3,
         "recipeLink": "https://www.youtube.com/watch?v=pfswT0HvNhQ",
-        "recipeImage": "/homePage/recipes/recipes/lemonSoup.png",
+        "recipeImage": "/homePage/recipes/recipes/lemonSoup.webp",
         "dot1": "block",
         "dot2": "hidden",
         "dot3": "hidden",
@@ -50,7 +50,7 @@
     {
         "id": 4,
         "recipeLink": "https://www.youtube.com/watch?v=2_BkfGRcx3o",
-        "recipeImage": "/homePage/recipes/recipes/poha.png",
+        "recipeImage": "/homePage/recipes/recipes/poha.webp",
         "dot1": "block",
         "dot2": "block",
         "dot3": "hidden",
@@ -66,7 +66,7 @@
     {
         "id": 5,
         "recipeLink": "https://youtu.be/QioyrhSDdGI",
-        "recipeImage": "/homePage/recipes/recipes/paneerButterMasala.png",
+        "recipeImage": "/homePage/recipes/recipes/paneerButterMasala.webp",
         "dot1": "block",
         "dot2": "block",
         "dot3": "hidden",
@@ -82,7 +82,7 @@
     {
         "id": 6,
         "recipeLink": "https://www.youtube.com/watch?v=S6OKo1wVnPI",
-        "recipeImage": "/homePage/recipes/recipes/redSaucePasta.png",
+        "recipeImage": "/homePage/recipes/recipes/redSaucePasta.webp",
         "dot1": "block",
         "dot2": "block",
         "dot3": "hidden",
@@ -97,7 +97,7 @@
     {
         "id": 7,
         "recipeLink": "https://www.youtube.com/watch?v=4BNvyx4GJl0",
-        "recipeImage": "/homePage/recipes/recipes/rotiCrackers.png",
+        "recipeImage": "/homePage/recipes/recipes/rotiCrackers.webp",
         "dot1": "block",
         "dot2": "hidden",
         "dot3": "hidden",
@@ -113,7 +113,7 @@
     {
         "id": 8,
         "recipeLink": "https://www.youtube.com/watch?v=35S4VQ4j9xw",
-        "recipeImage": "/homePage/recipes/recipes/semiyaPayasam.png",
+        "recipeImage": "/homePage/recipes/recipes/semiyaPayasam.webp",
         "dot1": "block",
         "dot2": "block",
         "dot3": "hidden",

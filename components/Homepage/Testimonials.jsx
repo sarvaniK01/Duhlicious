@@ -67,7 +67,6 @@ const Testimonials = () => {
                                 return (
                                     <div key={item.id} className='mx-auto'>
                                         <TestimonialsCard
-                                            tId={item.id}
                                             tDesc={item.userDescription}
                                             tImage={item.userImage}
                                             tName={item.userName}

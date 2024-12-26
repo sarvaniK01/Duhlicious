@@ -5,10 +5,10 @@ import Image from "next/image";
 import Heading from "../CoreComponents/Heading"
 
 // images
-import img1 from "../../public/About/whatToExpect/w1.png";
-import img2 from "../../public/About/whatToExpect/w2.png";
-import img3 from "../../public/About/whatToExpect/w3.png";
-import img4 from "../../public/About/whatToExpect/w4.png";
+import img1 from "../../public/About/whatToExpect/w1.webp";
+import img2 from "../../public/About/whatToExpect/w2.webp";
+import img3 from "../../public/About/whatToExpect/w3.webp";
+import img4 from "../../public/About/whatToExpect/w4.webp";
 
 const WhatToExpect = () => {
     return (

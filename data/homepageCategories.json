@@ -4,62 +4,62 @@
         "link": "/",
         "title1": "Brekkie",
         "title2": "Binge",
-        "image": "/homePage/categories/brekkie-binge.png"
+        "image": "/homePage/categories/brekkie-binge.webp"
     },
     {
         "id": 2,
         "link": "/",
         "title1": "Luncheon",
         "title2": "Laughs",
-        "image": "/homePage/categories/luncheon-laughs.png"
+        "image": "/homePage/categories/luncheon-laughs.webp"
     },
     {
         "id": 3,
         "link": "/",
        "title1": "Snack-o-",
         "title2": "Mania",
-        "image": "/homePage/categories/snack-o-mania.png"
+        "image": "/homePage/categories/snack-o-mania.webp"
     },
     {
         "id": 4,
         "link": "/",
         "title1": "Dinnertime",
         "title2": "Dazzle",
-        "image": "/homePage/categories/dinnertime-dazzle.png"
+        "image": "/homePage/categories/dinnertime-dazzle.webp"
     },
     {
         "id": 5,
         "link": "/",
         "title1": "Dessert-",
         "title2": "Licious",
-        "image": "/homePage/categories/dessert-licious.png"
+        "image": "/homePage/categories/dessert-licious.webp"
     },
     {
         "id": 6,
         "link": "/",
         "title1": "Pasta-",
         "title2": "Palooza",
-        "image": "/homePage/categories/pasta-palooza.png"
+        "image": "/homePage/categories/pasta-palooza.webp"
     },
     {
         "id": 7,
         "link": "/",
         "title1": "Soup-",
         "title2": "Tastic",
-        "image": "/homePage/categories/soup-tastic.png"
+        "image": "/homePage/categories/soup-tastic.webp"
     },
     {
         "id": 8,
         "link": "/",
         "title1": "Slurp-n-",
         "title2": "Snicker",
-        "image": "/homePage/categories/slurp-n-snicker.png"
+        "image": "/homePage/categories/slurp-n-snicker.webp"
     },
     {
         "id": 9,
         "link": "/",
         "title1": "Flavor-",
         "title2": "Frenzy",
-        "image": "/homePage/categories/flavor-frenzy.png"
+        "image": "/homePage/categories/flavor-frenzy.webp"
     }
 ]

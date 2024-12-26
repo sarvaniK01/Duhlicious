@@ -6,7 +6,7 @@ import Heading from "../CoreComponents/Heading";
 import Button from "../CoreComponents/Button";
 
 // images
-import aboutBg from "../../public/homePage/aboutUs/aboutBg.png"
+import aboutBg from "../../public/homePage/aboutUs/aboutBg.webp"
 
 const AboutUs = () => {
     return (

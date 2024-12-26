@@ -9,7 +9,7 @@ const TestimonialsCard = ({tId, tDesc, tImage, tName, tRecipes, tRecipeName }) =
     return (
         <div>
             {/* Mobile */}
-            <div key={tId} className="lg:hidden relative h-[750px] z-20 my-7 mx-auto">
+            <div className="lg:hidden relative h-[750px] z-20 my-7 mx-auto">
                 {/* above div */}
                 <div className="testimonialDiv1 bg-white z-40 px-6 py-10 h-[480px] rounded-2xl flex flex-col justify-between">
                     <div className="relative">
@@ -49,7 +49,7 @@ const TestimonialsCard = ({tId, tDesc, tImage, tName, tRecipes, tRecipeName }) =
             </div>
 
             {/* Desktop */}
-            <div key={tId} className="hidden lg:block relative w-[520px] 2xl:w-[540px] h-[750px] z-20 testimonialCard mt-7 2xl:mx-auto 3xl:mx-5">
+            <div className="hidden lg:block relative w-[520px] 2xl:w-[540px] h-[750px] z-20 testimonialCard mt-7 2xl:mx-auto 3xl:mx-5">
                 {/* above div */}
                 <div className="testimonialDiv1 bg-white z-40 px-10 py-10 rounded-2xl h-[375px] flex flex-col justify-between">
                     <div className="relative">

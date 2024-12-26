@@ -12,7 +12,7 @@ const Recipes = () => {
             <Navbar />
             <HeroElement
                 hBg="bg-recipePageBg"
-                hImage="/RecipesPage/sideImage.png"
+                hImage="/RecipesPage/sideImage.webp"
                 hTitle="Recipes"
                 hDescription="Welcome to our recipe page, your go-to 
                 destination for culinary inspiration! Explore our diverse 

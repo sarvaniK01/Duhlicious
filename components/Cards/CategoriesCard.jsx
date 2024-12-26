@@ -10,8 +10,8 @@ const CategoriesCard = ({ link, textColor, title1, title2, image}) => {
                     <p>{title2}</p>
                 </div>
             </Link> */}
-            <img src={image} alt={`${title1}-link`} className="mx-auto cardImageHover xl:w-[90%] 3xl:w-full" />
-            <div className={`${textColor} mt-8 w-fit text-center font-playfairDisplay font-semibold text-2xl 2xl:text-3xl mx-auto`}>
+            <img src={image} alt={`${title1}-link`} className="mx-auto cardImageHover md:w-[45%] lg:w-[35%] xl:w-[85%] 2xl:w-[90%] 3xl:w-full" />
+            <div className={`${textColor} mt-8 md:mt-3 xl:mt-8 w-fit text-center font-playfairDisplay font-semibold text-md lg:text-lg xl:text-2xl 2xl:text-3xl mx-auto`}>
                 <p>{title1}</p>
                 <p>{title2}</p>
             </div>

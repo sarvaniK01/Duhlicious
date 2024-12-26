@@ -13,7 +13,7 @@ const Contact = () => {
             <Navbar />
             <HeroElement 
                 hBg="bg-contactUsBg"
-                hImage="/ContactUs/sideImage.png"
+                hImage="/ContactUs/sideImage.webp"
                 hTitle="Contact Us"
                 hDescription="Have a burning culinary question, 
                 suggestion, craving a particular recipe or just 

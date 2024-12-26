@@ -42,10 +42,10 @@ const Newsletter = () => {
     return (
         <section>
             <div className=''>
-                <div className="lg:hidden bg-newsletterBg md:bg-newsletterBg2 md:w-[80%] md:rounded-2xl md:my-10 bg-no-repeat container mx-auto py-28 px-6">
+                <div className="lg:hidden bg-newsletterBg md:bg-newsletterBg2 bg-cover md:w-[80%] md:rounded-2xl md:my-10 bg-no-repeat container mx-auto py-28 px-6">
                     <div className="flex flex-col justify-center content-center h-full mx-auto">
                         <Heading text="Let's keep in touch" color="text-white" />
-                        <p className="text-center pt-14 font-lora text-xl text-white mx-auto">
+                        <p className="text-center pt-14 font-lora text-xl text-white mx-auto w-[80%]">
                             Get fresh recipes and new tips when you sign up for our emails. *Spam free*
                         </p>
                         <Formik

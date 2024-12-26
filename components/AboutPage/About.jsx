@@ -15,7 +15,7 @@ const About = () => {
             <Navbar />
             <HeroElement 
                 hBg="bg-aboutBg"
-                hImage="/About/sideImage.png"
+                hImage="/About/sideImage.webp"
                 hTitle="About Us"
                 hDescription="Welcome to Duhlicious, your recipe haven! 
                 We're devoted to sharing global flavors and inspiring cooks 

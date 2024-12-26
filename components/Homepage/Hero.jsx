@@ -8,16 +8,16 @@ const Hero = () => {
         <section className="bg-homePageHeroBg bg-no-repeat bg-cover h-screen">
             {/* Mobile */}
             <div className="lg:hidden py-5 px-6 md:py-7 md:px-12 lg:px-16 absolute mt-20 top-[50%] -translate-y-1/2 text-white flex flex-col -z-1">
-                <p className="mx-auto font-playfairDisplay font-semibold text-5xl lg:text-3xl text-center">
+                <p className="mx-auto font-playfairDisplay font-semibold text-3xl text-center">
                     Hello
                 </p>
-                <p className="mx-auto font-playfairDisplay font-semibold text-5xl text-center">
+                <p className="mx-auto font-playfairDisplay font-semibold text-3xl lg:text-5xl text-center">
                     Dear Foodie!
                 </p>
-                <p className="mx-auto font-playfairDisplay font-semibold text-5xl pt-5 text-center">
+                <p className="mx-auto font-playfairDisplay font-semibold text-3xl lg:text-5xl pt-5 text-center">
                     We&apos;re Duhlicious
                 </p>
-                <p className="mx-auto font-lora font-medium text-2xl text-center pt-12 pb-14">
+                <p className="mx-auto font-lora font-medium text-xl lg:text-2xl text-center pt-12 pb-14">
                     Looking for some quick recipes or want to make a new dish for lunch? You&apos;ve arrived to the right place!!
                 </p>
                 <Button

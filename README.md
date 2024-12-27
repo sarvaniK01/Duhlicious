@@ -1,5 +1,5 @@
-# Portfolio website
-A portfolio website of a Frontend developer
+# Duhlicious website
+A recipe website
 ## Table of contents
 * [Website Link](#website-link)
 * [General info](#general-info)
